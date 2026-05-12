@@ -9,7 +9,7 @@ API de Blagues françaises collaborative et Open Source
 [![Stars](https://img.shields.io/github/stars/Blagues-API/api.svg?style=flat)](https://github.com/Blagues-API/api/stargazers)
 [![Licence](https://img.shields.io/github/license/Blagues-API/api?style=flat)](https://github.com/Blagues-API/api/blob/master/LICENCE)
 
----
+  ---
 
 ## Modules
 
